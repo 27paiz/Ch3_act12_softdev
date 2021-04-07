@@ -1,3 +1,4 @@
+// จงสร้างโปรแกรม Flutter โดยรับข้อมูลอินพุทเป็น “ user (E-mail) และ รห้ส password” และให้แสดงข้อความ ยินดีต้อนรับเข้าระบบ ตามด้วย user เช่น “Welcome to Animate System, apichart.v@phuket.psu.ac.th ”
 import "package:flutter/material.dart";
 
 void main() => runApp(MyApp());
